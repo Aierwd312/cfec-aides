@@ -32,6 +32,6 @@
 *欢迎提交校园API对接方案/UI交互优化/功能提案*
 
 #### 下载教程
-1.点击Releases即可进入下载页面
-2.点击Releases即可进入下载页面
-3.点击Releases即可进入下载页面
+1. 点击Releases即可进入下载页面  
+2. 点击Releases即可进入下载页面    
+3. 点击Releases即可进入下载页面  
